@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>AppIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#5481B2" offset="0%"></stop>
+            <stop stop-color="#2A4A7A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#EC152F" offset="0%"></stop>
+            <stop stop-color="#D40915" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AppIcon">
+            <rect id="Background" x="0" y="0" width="1024" height="1024"></rect>
+            <path d="M62.0010875,513 C62.0003626,512.666752 62,512.333418 62,512 C62,263.471863 263.471863,62 512,62 C760.528137,62 962,263.471863 962,512 C962,760.528137 760.528137,962 512,962 L512,830 C687.62655,830 830,687.62655 830,512 C830,336.37345 687.62655,194 512,194 C336.37345,194 194,336.37345 194,512 C194,512.333453 194.000513,512.666787 194.001539,513 L62.0010095,513 Z" id="Outer-Circle" fill="url(#linearGradient-1)"></path>
+            <circle id="Inner-Circle" fill="url(#linearGradient-2)" cx="512" cy="512" r="171"></circle>
+        </g>
+    </g>
+</svg>
